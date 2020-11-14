@@ -11,4 +11,4 @@ More hobby-wise, I am dabbling in the [Coq Proof Assistant](https://coq.inria.fr
 Programming-wise, I also fancy the latest TypeScript/ECMAScript. And I like [writing/autogenerating syntax highlighters](https://github.com/ComFreek/mmtpygments) that [succeed on over 15k lines of code](https://comfreek.github.io/mmtpygments/mmtpygments/test/index.html).
 
 
-Feel free to reach out (by posting an [issue here](https://github.com/ComFreek/ComFreek/issues/new)) ! I'd love to chat about projects that relate to the topics above.
+Feel free to reach out (by posting an [issue here](https://github.com/ComFreek/ComFreek/issues/new))! I always love hearing and chatting about cool things.
