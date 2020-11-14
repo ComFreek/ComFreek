@@ -1,3 +1,5 @@
+<!-- note to self: mirror this self-description both at https://github.com/ComFreek/ComFreek/blob/master/README.md and https://stackoverflow.com/users/edit/603003!
+                   If you change one, change the other, too! -->
 ## About me
 
 I am a Computer Science M. Sc. student. My research interests are knowledge representation and processing of math, and lately also programming language theory.
