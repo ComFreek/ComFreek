@@ -1,5 +1,4 @@
-<!-- note to self: mirror this self-description both at https://github.com/ComFreek/ComFreek/blob/master/README.md and https://stackoverflow.com/users/edit/603003!
-                   If you change one, change the other, too! -->
+<!-- Mirror this self-description both at ComFreek/ComFreek and on the StackExchange network! -->
 ## About me
 
 I am a Computer Science M. Sc. student. My research interests are knowledge representation and processing of math, and lately also programming language theory.
@@ -11,6 +10,5 @@ For more info and publications, see my [academic website](https://kwarc.info/peo
 More hobby-wise, I am dabbling in the [Coq Proof Assistant](https://coq.inria.fr/) and, e.g., formalized my own flavor of [an ontology language](https://github.com/ComFreek/basic-ontology-language) and [a lambda calculus with de Bruijn indices](https://github.com/ComFreek/lambda-coq).
 
 Programming-wise, I also fancy the latest TypeScript/ECMAScript. And I like [writing/autogenerating syntax highlighters](https://github.com/ComFreek/mmtpygments) that [succeed on over 15k lines of code](https://comfreek.github.io/mmtpygments/mmtpygments/test/index.html).
-
 
 Feel free to reach out (by posting an [issue here](https://github.com/ComFreek/ComFreek/issues/new))! I always love hearing and chatting about cool things.
