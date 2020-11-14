@@ -8,4 +8,7 @@ For more info and publications, see my [academic website](https://kwarc.info/peo
 
 More hobby-wise, I am dabbling in the [Coq Proof Assistant](https://coq.inria.fr/) and, e.g., formalized my own flavor of [an ontology language](https://github.com/ComFreek/basic-ontology-language) and [a lambda calculus with de Bruijn indices](https://github.com/ComFreek/lambda-coq).
 
-Programming-wise, I mostly fancy the latest TypeScript/ECMAScript and Scala.
+Programming-wise, I also fancy the latest TypeScript/ECMAScript. And I like [writing/autogenerating syntax highlighters](https://github.com/ComFreek/mmtpygments)) that [succeed on over 15k lines of code](https://comfreek.github.io/mmtpygments/mmtpygments/test/index.html).
+
+
+Feel free to reach out (by posting an [issue here](https://github.com/ComFreek/ComFreek/issues/new)) ! I'd love to chat about projects that relate to the topics above.
